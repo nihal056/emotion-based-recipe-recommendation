@@ -51,5 +51,5 @@ Model 1 was applied to pseudo-label the recipe review dataset, creating emotion 
 
 ## Author
 
-M Nihal Thonikkara — MSc Artificial Intelligence, National College of Ireland
+Mohammed Nihal Thonikkara — MSc Artificial Intelligence, National College of Ireland
 [LinkedIn](https://www.linkedin.com/in/mohammed-nihal-thonikkara)
